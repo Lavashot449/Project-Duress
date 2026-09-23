@@ -89,6 +89,57 @@
       "reading_copy": "books-of-sorrow/tablets-of-ruin/2026-09-09/reading.txt",
       "reading_sha256": "71773d52696e3ee07619783ec94c8e6e1cc98925ea436c6b57ae6d7ae81c4531",
       "authority": "Mirror of author-supplied Book; original authority remains in The Deep; later explicit author freezes recorded separately."
+    },
+    {
+      "id": "S09",
+      "kind": "direct_author_corrective_directive_request_body",
+      "copy": "sources/2026-09-23-resonance-corrective-directive.md",
+      "sha256": "f66cb59c4e1bec510a9c1cb4ee99828dc175b5eda35acba91a72104087c1bd4f",
+      "authority": "Current author-confirmed character axis and axioms; current causal/workshop state; unfinished mechanics explicitly not frozen."
+    },
+    {
+      "id": "S10",
+      "kind": "recovered_author_available_docx_provenance_copy",
+      "original_filename": "Deep_Bearer_Conversation_Transcript_Lee_Rev.docx",
+      "retrieved_on": "2026-09-23",
+      "copy": "history/character-conversations/deep-bearer-transcript/original.docx",
+      "sha256": "2219f3b7c0224514e692929c891acc602395a831e48356df0906276c8fa368ce",
+      "original_sha256": "2219f3b7c0224514e692929c891acc602395a831e48356df0906276c8fa368ce",
+      "reading_copy": "history/character-conversations/deep-bearer-transcript/reading.txt",
+      "reading_sha256": "f9dcac3d81254b536ab2beff4def7aa9970e43bdaa996e2d5bc1560b4e5bf13e",
+      "limitations": "Conversation handoff, not a verified complete raw chat export. Its own introduction identifies surviving wording and explicitly reconstructed earlier Rev turns. Preserve every reconstruction marker. Some historical wording is superseded by S09."
+    },
+    {
+      "id": "S11",
+      "kind": "recovered_author_available_docx_provenance_copy",
+      "original_filename": "Deep_Bearer_Character_Lenses_Handoff.docx",
+      "retrieved_on": "2026-09-23",
+      "copy": "history/character-conversations/deep-bearer-character-lenses/original.docx",
+      "sha256": "28fb5b488fe2cafc9f5b24b78f872371f8755ad4d054318998b230f401727191",
+      "original_sha256": "28fb5b488fe2cafc9f5b24b78f872371f8755ad4d054318998b230f401727191",
+      "reading_copy": "history/character-conversations/deep-bearer-character-lenses/reading.txt",
+      "reading_sha256": "8e31631c93364e51b101df6f96cc436a07924df4f3cfe7545a99d1b8a4221767",
+      "limitations": "Dramatic/philosophical handoff. Sample ensemble dialogue and seeds are not all locked final dialogue. Its self-description as governing does not create a fourth governing Book. Current author scope is supplied by S09."
+    },
+    {
+      "id": "S12",
+      "kind": "author_supplied_followup_correction_and_workshop_reference",
+      "original_filename": "Pasted text.txt",
+      "copy": "history/character-conversations/eris-lens-candidate/original.txt",
+      "sha256": "aff2f363969f1302ab4f3b0f5f102dbb7a0de9431a7d46ed8057957ea22e9beb",
+      "original_sha256": "aff2f363969f1302ab4f3b0f5f102dbb7a0de9431a7d46ed8057957ea22e9beb",
+      "authority": "Historical candidate-state correction to S09; subsequent S13 workshop establishes the current Eris response. Candidate hypotheses are not automatically approved."
+    },
+    {
+      "id": "S13",
+      "kind": "author_supplied_full_eris_workshop_conversation",
+      "original_filename": "Pasted text.txt",
+      "copy": "history/character-conversations/eris-hive-god-of-vengeance/original.txt",
+      "sha256": "aced7116bc6ebf9e7fad88920a2c60c271771d09ea8fae5e9c13a82d1ce3c542",
+      "original_sha256": "aced7116bc6ebf9e7fad88920a2c60c271771d09ea8fae5e9c13a82d1ce3c542",
+      "retrieved_on": "2026-09-23",
+      "coverage": "Author identifies this as the whole Eris Morn Hive God of Vengeance conversation, start to finish.",
+      "limitations": "Pasted text without structured speaker metadata or timestamps; retains rejected assistant proposals and illustrative dialogue. Final author correction governs. Exact linear slot and final screenplay not supplied."
     }
   ],
   "governing_mirrors": [
@@ -111,7 +162,7 @@
   "missing_governing_sources": [],
   "author_reported_book_location": "ChatGPT project files / The Deep; September 9 versions supplied by author and mirrored on September 23; no direct folder access or live synchronization.",
   "missing_conversations": [
-    "Full Raccoon Fuck V2.0 discussion and attachments",
-    "Full character/Deepbearer interaction discussion including Rhulk, Savathun, Eris Morn, and other characters actually discussed"
+    "Complete raw source conversation underlying the recovered S10 handoff, including collapsed turns and unavailable attachments",
+    "Full live workshop beyond S09 author-supplied current state"
   ]
 }

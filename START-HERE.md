@@ -10,9 +10,10 @@ The strongest current authority available in this edition is the author's [Septe
 2. [Current freeze](canon/2026-09-23-freeze.md): learn the three alignments and the persistence principle.
 3. [Cosmology](cosmology/deep-and-deepbearers.md): understand the Deep, Resonance, Drowning, and the distinction between a Deep-Wielder and a Deepbearer.
 4. [Causal framework](causality/framework.md): follow record → perception → interpretation → conceived possibility → actuality → new record. This is the recovered workshop model, not a new governing law.
-5. [Temporal distinction](causality/what-would-be-and-could-never-be.md): see exactly what is available about What Would Be becoming Could Never Be and what still needs the full discussion.
+5. [Temporal distinction](causality/what-would-be-and-could-never-be.md): read the author-supplied relationship between a once-valid branch and inaccessibility from a new causal state, separately from unprovided formal mechanics.
 6. [Subclasses](subclasses/README.md), [Echoes](echoes/README.md), and [Exotics](exotics/README.md): explore the design material with its evidence boundaries intact.
-7. [Character interactions](characters/README.md): track the requested full discussion involving Rhulk, Savathûn, Eris Morn, and other characters. The full source conversation is still missing.
+7. [Deep-Bearer inclusion/exclusion axis](characters/deep-bearer-response-axis.md): read all eight established lenses and their distinct reasons. The transcript handoff and character-lenses DOCX sources are recovered; [Eris as Hive God of Vengeance](characters/eris-morn-hive-god-of-vengeance.md) now has a source-backed cumulative exclusionary response in S13, with no invented linear slot.
+8. [Current causal grammar](causality/current-causal-grammar.md): primary state, secondary escalation, current grenades, and explicit active-development boundaries.
 
 ## Three distinctions that prevent continuity mistakes
 
@@ -27,3 +28,5 @@ The September 9 guide describes What Could Be and an older meaning of REVERB. Th
 The [open-work register](ACTIVE-DEVELOPMENT.md) marks the three supplied Book mirrors recovered and lists the remaining full current conversation, detailed Echo designs and roster, and Exotics. Their absence prevents this edition from being called the complete Project Resonance corpus.
 
 Future Rev instances should read [the handoff](continuity/REV-START-HERE.md) before editing. Contributors should read [CONTRIBUTING](CONTRIBUTING.md). For attribution and the role of AI, read [AUTHORSHIP](AUTHORSHIP.md).
+
+The [Resonance Handoff](continuity/resonance-handoff-2026-09-23.md) documents S09–S13, source coverage, historical conflicts, and remaining gaps. The [character archive](history/character-conversations/README.md) provides unchanged originals and reading copies. Current character logic is confirmed; Pinning Strike and Titan Aspects/Fragments remain ACTIVE DEVELOPMENT.

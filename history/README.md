@@ -11,3 +11,7 @@ Historical sources retain their original wording, including superseded terminolo
 The [character-conversation archive status](character-conversations/README.md) records the additional request for the full discussion of characters and Deepbearers. No full transcript was available for that discussion.
 
 The [locked language record](locked-language.md) preserves the six footers as found in S03. The [continuity decision log](../continuity/decision-log.md) explains how current editorial pages handle changes without altering these sources.
+
+[Recovered character handoffs](character-conversations/README.md) preserve S10/S11 originals, reconstruction and draft labels, and the unchanged S12 Eris candidate correction. Current interpretations live separately in the [axis](../characters/deep-bearer-response-axis.md).
+
+[S13 full Eris workshop](character-conversations/eris-hive-god-of-vengeance/README.md) preserves the subsequent development and final correction. S12 remains historical candidate context; current Eris logic is documented separately.

@@ -15,7 +15,7 @@ S07 adds explicit limits: complexity scales with target, scope, and understandin
 | Grimoire title | File and internal title say Rev Grimoire; original request said Resonance Grimoire. | Preserve the supplied title and record the naming difference. |
 | Possibility terminology | S06/S07 use What Could Be; S01 aligns Shimmerstalker with What Would Be. | Apply S01's alignment in current pages; retain Book wording. Full relationship awaits the handoff. |
 | Technique terminology | S07 defines ECHO, ANCHOR, SHIMMER; S01 freezes Echo → Reverb, Anchor → Pin, Shimmer → Refract. | Preserve the transitions without automatically transferring every old behavior or constraint. |
-| REVERB | S06/S07 define propagation from all three expressions; S01 assigns Echo → Reverb. | Older definition remains visible; the current disposition of the propagation concept is unresolved. |
+| REVERB | S06/S07 define propagation from all three expressions; S01 assigns Echo → Reverb. | Older definition remains visible as historical. S09 reserves current Reverb for Echo escalation, not a grenade; it does not approve transplantation of older effects. |
 | Echo component naming and order | S02 lists FORM, VOICE, POWER, BOONS, DOMAIN. S06 gives DOMAIN → VOICE → SHAPE → POWER → BOONS. | Preserve S02 as history; show the Book's explicit flow separately. Do not assert FORM = SHAPE without evidence. |
 | Fully Manifested expression names | S06 names REFRACTED SHIMMERSTALKER and SUFFOCATED ANCHORFORGED; Echobound is unnamed there. | Attribute those states to S06. Do not equate REFRACTED with today's Refract mechanic solely by spelling. |
 | Failure and impossibility | S07 says a failed path does not establish that the outcome can never occur. S01 requests the What Would Be → Could Never Be distinction. | Preserve both. Failure alone cannot be used as a substitute explanation of that transition. |
@@ -26,4 +26,6 @@ S08 records the day of architectural development, the naming of The Perpetual, f
 
 ## Still absent
 
-These Books do not supply Reprisal, Deadlock, or Divergence Grenade mechanics; the full later explanation of Could Never Be; complete Echo dossiers or an Exotics catalog; or the requested character-interaction conversation involving Rhulk, Savathûn, Eris Morn, and others. The author is preparing a handoff for further recovery. Its contents are not assumed in advance.
+These Books do not supply Reprisal, Deadlock, or Divergence Grenade mechanics; the full later explanation of Could Never Be; complete Echo dossiers or an Exotics catalog; or the requested character-interaction conversation involving Rhulk, Savathûn, Eris Morn, and others. The Resonance Handoff now supplies current conceptual context (S09), actual character-source handoffs (S10/S11), the historical Eris candidate correction (S12), and the full Eris workshop establishing her response (S13); these are separate from the Books and do not complete every missing mechanic.
+
+The [Resonance Handoff](resonance-handoff-2026-09-23.md) adds current author-supplied verb grammar, branch-accessibility context, and character lenses. All three Book DOCX mirrors and their reading texts remain unchanged; no repository path confers new governing authority.

@@ -1,18 +1,9 @@
-# Characters and Deepbearers
+# Characters and Deep-Bearers
 
-**Status: SOURCE MISSING for the full requested discussion.** The author explicitly requests the complete conversation about characters and their interactions with Deepbearers, including **Rhulk, Savathûn, Eris Morn, and others**.
+The [Deep-Bearer inclusion and exclusion axis](deep-bearer-response-axis.md) documents the eight source-backed character lenses in full, including the distinct reason for each response. Rhulk and Savathûn are the endpoints; Crow is the continuity mirror and center. This is not a Light-versus-Dark approval chart.
 
-That full conversation was not available to this task. The sparse mentions below are an evidence inventory, not a replacement transcript or a reconstructed account of each character's beliefs and reactions.
+**Status: CURRENT AUTHOR-CONFIRMED character logic.** [S09](../sources/2026-09-23-resonance-corrective-directive.md) confirms the current state; recovered [S10 and S11](../history/character-conversations/README.md) preserve the conversation handoff and dramatic reasoning. The previous “cannot infer” inventory is superseded for these eight characters because actual supporting sources have now been recovered.
 
-| Character | Evidence available here | What cannot be inferred |
-|---|---|---|
-| Rhulk | S02 names Echo of the Deep; S03 uses Subjugation as a working expression; S04 invokes Rhulk's Drowning language. | The full current discussion of how Rhulk understands, responds to, or interacts with Deepbearers. |
-| Savathûn | S04 refers to Savathûn in an earlier, uncertainly transcribed Guardian biography and discussion of identity. | Savathûn's actual interpretation, dialogue, actions, or relationship to Deepbearers in the requested later conversation. |
-| Eris Morn | Named explicitly in the author's follow-up request. | Any specific interaction or position; no supporting discussion was recovered. |
-| Other characters | The request indicates more characters were discussed. | Their identities or inclusion without the source conversation. |
+**[Eris Morn Hive God of Vengeance](eris-morn-hive-god-of-vengeance.md): CURRENT AUTHOR-ESTABLISHED RESPONSE.** S13 now supplies the full workshop: cumulative exclusion, horror, and the final understanding/self-hatred correction. S12’s candidate-only state is historical. No new linear slot or locked final script is invented. Other characters require exact source support.
 
-Sources: [S01](../sources/2026-09-23-author-directive.md), [S02](../history/private-projectresonance/PROVENANCE.md), [S03](../history/workshop-2026-09-09/README.md), [S04](../history/voice-note-2026-09-08/README.md).
-
-## Preservation requirement
-
-The [conversation archive](../history/character-conversations/README.md) must preserve the full relevant discussion, speaker attribution, corrections, disagreements, and distinctions between author decisions and assistant suggestions. A later character index may make it navigable, but must not replace it with invented dialogue, generic Destiny character analysis, or a polished synopsis that drops the workshop's reasoning.
+The [conversation archive](../history/character-conversations/README.md) distinguishes unchanged source DOCX files, derivative reading text, reconstructed Rev turns, and both the earlier Eris candidate packet and subsequent full Eris workshop. The recovered handoff is not falsely labeled a complete raw conversation export. Sample dialogue and unfinished mechanics remain separate from the established character lenses.

@@ -1,6 +1,6 @@
 # The Deep and Deepbearers
 
-**Status: DRAFT / ACTIVE DEVELOPMENT — synthesis of the September 9 working architecture, with explicitly frozen statements identified.** Sources: [S01](../sources/2026-09-23-author-directive.md), [S03](../history/workshop-2026-09-09/README.md), and historical [S04](../history/voice-note-2026-09-08/README.md).
+**Status: mixed — current author-confirmed axioms below; dated working synthesis and unfinished mechanics retain their stated boundaries.** Sources: [S01](../sources/2026-09-23-author-directive.md), [S03](../history/workshop-2026-09-09/README.md), and historical [S04](../history/voice-note-2026-09-08/README.md).
 
 ## What persists
 
@@ -39,3 +39,11 @@ The recovered model distinguishes access to a record from understanding and capa
 ## Supplied governing support
 
 [Rev Grimoire](../books-of-sorrow/rev-grimoire/2026-09-09/README.md) section 1 and [Laws of Causality](../books-of-sorrow/laws-of-causality/2026-09-09/README.md) sections 1–3 now directly support the non-agentic Deep, immutable record, Illumination, Drowning, and Deep-Wielder/Deepbearer distinction in their September 9 state. Section 5 of the Laws supplies qualitative scope/capability and exhaustion limits. See [The Perpetual and limits](../causality/the-perpetual-and-limits.md); do not treat every older workshop example as independently present in a Book.
+
+## Current author-confirmed Deep-Bearer axioms
+
+[S09](../sources/2026-09-23-resonance-corrective-directive.md), corroborated by recovered S10/S11, establishes: the Deep has no agency; it simply is. What Was persists and cannot become Never Was. Persistence is not sentimentality or proof that an old self remains secretly alive. Deep-Bearer understanding requires the What Was / What Is distinction; Drowning must not be flattened into generic corruption.
+
+**The Deep Persists. The Perpetual Preserved.**
+
+Rhulk is **not** a Deep-Bearer. Crow emotionally understands the continuity problem without having Drowned. Savathûn's recognition does not erase the difference between her biographical transformation and the Guardian category. See the dedicated [character-response axis](../characters/deep-bearer-response-axis.md), which preserves all eight reasons rather than treating every relationship to drowning as membership in the same category.

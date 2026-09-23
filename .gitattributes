@@ -6,3 +6,5 @@ history/voice-note-2026-09-08/transcript.md -text -whitespace
 history/workshop-2026-09-09/guide.txt -text -whitespace
 
 books-of-sorrow/**/original.docx -text
+history/character-conversations/**/original.docx -text
+history/character-conversations/**/original.txt -text -whitespace

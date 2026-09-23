@@ -22,12 +22,12 @@ These names and alignments are frozen by the author. They do not establish unpro
 |---|---|
 | Governing authority and mirror status | [Books of Sorrow](books-of-sorrow/README.md) · [Authority and status](canon/authority-and-status.md) |
 | Deep, Resonance, Drowning, and Deepbearers | [Cosmology](cosmology/deep-and-deepbearers.md) |
-| Record, interpretation, possibility, and Manifestation | [Causal framework](causality/framework.md) · [Vocabulary](causality/vocabulary.md) |
-| What Would Be and Could Never Be | [Protected distinction and source gap](causality/what-would-be-and-could-never-be.md) |
+| Record, interpretation, possibility, and Manifestation | [Current causal grammar](causality/current-causal-grammar.md) · [Causal framework](causality/framework.md) · [Vocabulary](causality/vocabulary.md) |
+| What Would Be and Could Never Be | [Current conceptual relationship](causality/what-would-be-and-could-never-be.md) |
 | Guardian expressions and grenade names | [Subclasses](subclasses/README.md) |
 | Echo construction and preserved roster | [Echoes](echoes/README.md) · [Raid-boss Echo roster](echoes/raid-boss-roster.md) |
 | Exotics | [Exotics source status](exotics/README.md) |
-| Characters and their interactions with Deepbearers | [Character discussion status](characters/README.md) · [Full-conversation archive status](history/character-conversations/README.md) |
+| Characters and their interactions with Deepbearers | [Eight-character response axis](characters/deep-bearer-response-axis.md) · [Recovered conversation handoffs](history/character-conversations/README.md) |
 | Earlier formulations and original README | [Historical archive](history/README.md) · [Continuity decisions](continuity/decision-log.md) |
 | Future Rev instances | [Rev handoff](continuity/REV-START-HERE.md) |
 | Authorship and AI assistance | [Disclosure](AUTHORSHIP.md) |
@@ -40,3 +40,5 @@ These names and alignments are frozen by the author. They do not establish unpro
 The supplied **Rev Grimoire**, **Laws of Causality**, and **Tablets of Ruin** remain the author-designated governing Books. Their unchanged September 9 DOCX files and full text reading copies are available in the [mirror register](books-of-sorrow/README.md). Authority remains with the originals in The Deep. Read [the Book reconciliation](continuity/books-reconciliation-2026-09-23.md), [The Perpetual and limits](causality/the-perpetual-and-limits.md), and [ritual/archive language](continuity/ritual-and-archive-language.md) alongside the later freeze.
 
 The original `ProjectResonance` README is retained [unaltered as historical provenance](history/private-projectresonance/README.original.md), with its commit and integrity record. Its older description of a “public archive” remains part of that historical text; it is not a verification of the source repository's present visibility.
+
+The [Resonance Handoff](continuity/resonance-handoff-2026-09-23.md) recovers the Deep-Bearer conversation and character-lenses handoffs, confirms the eight-character axis, and separates current grammar from unfinished mechanics. [Eris as Hive God of Vengeance](characters/eris-morn-hive-god-of-vengeance.md) is now documented from the full S13 workshop; neither recovered handoff is misrepresented as a complete raw conversation export.

@@ -20,3 +20,19 @@ Source IDs: [register](../sources/README.md). Changes to these resolutions requi
 ## Supplied-Book follow-up
 
 [Book reconciliation](books-reconciliation-2026-09-23.md) records the source title Rev Grimoire, the Book workflow using SHAPE versus the older README's FORM, current versus older REVERB and possibility terminology, and the newly recovered capacity/exhaustion rules. [Ritual and archive language](ritual-and-archive-language.md) records the Book vocabulary without executing it as instructions.
+
+## Resonance Handoff S09–S12
+
+The rows above record the earlier import stage. The following current resolutions supersede their pending questions where stated.
+
+- C01/C04: S09 supplies the current branch-accessibility relationship. Current terminology uses What Would Be; historical What Could Be remains unchanged. Full formal mechanics are not supplied.
+- C02/C03: the arrows are primary-state → secondary-escalation progressions, not mixed verbs or mere renaming. Reverb is reserved for Echo escalation, not a grenade. Historical general propagation remains historical; no old effect is automatically transferred.
+- C10: Reprisal replaces Echo Grenade; Divergence replaces Shimmer/Reverb grenade terminology; Deadlock remains established. Names do not approve full effects.
+- C11: replace the eight-character “cannot infer” gaps with the recovered, source-cited axis. Preserve Rhulk's exclusion from Deep-Bearer classification, Crow's non-literal continuity mirror, and Savathûn's recognition and interpretive Perpetual realization.
+- C12: preserve S10 reconstruction labels and S11 non-locked sample dialogue. S09 current axioms govern readings of historical “gone/stripped” language without altering original copies. S12 initially corrected Eris to never-established/candidate status. The subsequent S13 full workshop now establishes her response, so S12 is historical for current Lens development. Read C15 below.
+- C13: Pinning Strike and rebuilt Titan Aspects/Fragments remain ACTIVE DEVELOPMENT. Obsolete V1 mechanics do not regain authority through recovery.
+- C14: retain original governing-Book authority and expand transparent AI disclosure using the author's current statement. Exclude the Parker Handoff file and its excerpts entirely at the author’s request. Title the current record Resonance Handoff.
+
+See [full recovery and reconciliation](resonance-handoff-2026-09-23.md), [current axis](../characters/deep-bearer-response-axis.md), and [current grammar](../causality/current-causal-grammar.md).
+
+- C15: S13 supplies the full Eris Hive God of Vengeance conversation. Preserve the sequence from cumulative exclusions and wielding objection to horror and the final “We drowned. We are” correction. Reject “You allowed it” as current dialogue; preserve the author’s Eris-understands/Savathûn-does-not contrast. Document Eris’s cumulative lens without a fabricated linear slot. Do not turn final assistant labels, universal claims, or sample dialogue into independently locked canon. S12’s candidate-only state is superseded; its original text remains unchanged.

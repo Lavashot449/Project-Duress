@@ -26,3 +26,18 @@ Direct Git access worked for both named repositories. The source repository's cu
 Initial local filename discovery across Documents, Downloads, and Desktop found the guide and transcript but no files named for the governing Books or full Echo/Exotic corpus. The author subsequently provided the three governing files, closing that part of the source gap. That limited discovery does not establish that the material does not exist elsewhere or under another name. Memory pointers helped locate earlier local artifacts; the content published here was checked against the recovered artifacts, not treated as confirmed merely because a memory summary said it existed.
 
 The earlier assistant's claim that all the boxes were packed is not a source inventory. The [missing-source register](../ACTIVE-DEVELOPMENT.md) states what still needs recovery.
+
+## Resonance Handoff recovery
+
+| ID | Source | Evidence and scope |
+|---|---|---|
+| S09 | [Resonance Handoff author directive](2026-09-23-resonance-corrective-directive.md) | Direct author-confirmed character logic, axioms, causal grammar, workshop status, and authorship disclosure |
+| S10 | [Deep-Bearer Lee–Rev conversation handoff](../history/character-conversations/deep-bearer-transcript/README.md) | Unchanged DOCX and main-body reading copy; preserves explicitly reconstructed Rev turns; not a complete raw chat export |
+| S11 | [Deep-Bearer character lenses](../history/character-conversations/deep-bearer-character-lenses/README.md) | Unchanged DOCX and main-body reading copy; philosophical reasoning and non-locked dialogue seeds |
+| S12 | [Eris candidate correction](../history/character-conversations/eris-lens-candidate/README.md) | Unchanged supplied text; NEVER ESTABLISHED — WORKSHOP REQUIRED; supersedes the earlier Eris recovery premise |
+
+These recovered local documents supersede the earlier retrieval-stage statements above that the character discussion was unavailable. Full raw chat retrieval and direct ChatGPT-library access remain unavailable. [Recovery coverage](../continuity/resonance-handoff-2026-09-23.md) records the searches, Eris's corrected candidate status, and historical/current conflicts. Exact byte and reading-copy checksums are recorded in the manifest.
+
+## Subsequent Eris workshop — S13
+
+[S13](../history/character-conversations/eris-hive-god-of-vengeance/README.md) is the author-supplied whole Eris Morn Hive God of Vengeance conversation. It supersedes S12’s candidate-only state and establishes cumulative exclusion, horror, and the final “We drowned. We are” correction. The original pasted text remains unchanged, including rejected assistant proposals. Speaker metadata is not reconstructed as an original export. No numerical Lens position or final dialogue approval is invented.

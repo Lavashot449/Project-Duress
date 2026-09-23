@@ -1,15 +1,17 @@
-# Character interaction conversation archive
+# Character interaction source archive
 
-**Status: SOURCE MISSING — no full character-interaction conversation has been imported.**
+**Status: RECOVERED HANDOFF SOURCES; complete raw conversation export still SOURCE NOT YET RECOVERED. S13 now establishes Eris’s Hive God of Vengeance response; S12 is historical candidate context.**
 
-The author's September 23 follow-up asks for the full conversation about the different characters and how they interact with Deepbearers, naming Rhulk, Savathûn, Eris Morn, and others. The bounded preview available in this task does not contain that discussion. The recovered September 8 transcript and September 9 guide are separate artifacts; they are not the requested full conversation.
+**Current title: Resonance Handoff.**
 
-## Import requirements
+- [S10 — Deep-Bearer Lee–Rev conversation handoff](deep-bearer-transcript/README.md): unchanged DOCX and complete main-body reading copy. Preserves surviving wording, speaker labels, corrections, and explicitly reconstructed earlier Rev turns. It does not claim to be a complete raw chat export.
+- [S11 — Deep-Bearer character lenses](deep-bearer-character-lenses/README.md): unchanged DOCX and complete main-body reading copy. Philosophical and dramatic reasoning, with illustrative dialogue not all locked.
+- [S12 — Eris candidate correction](eris-lens-candidate/README.md): unchanged author-supplied packet establishing that Eris was never placed; historical candidate-only state, subsequently superseded by S13.
+- [S13 — full Eris Hive God of Vengeance workshop](eris-hive-god-of-vengeance/README.md): author-identified whole conversation, preserved unchanged; final author correction governs over rejected assistant proposals.
+- [S09 — current corrective author directive](../../sources/2026-09-23-resonance-corrective-directive.md): establishes current status, terminology, and limitations. This is distinct from recovering a historical transcript.
 
-Preserve the original conversation export or supplied transcript as historical source material. Retain speaker roles, chronological order, corrections, rejected interpretations, unresolved questions, and references to attachments. Keep the entire relevant exchange rather than only the assistant's final answers. Identify unavailable attachments and missing turns explicitly.
+The [current axis](../../characters/deep-bearer-response-axis.md) cites the supporting source sections for every character. [Recovery and reconciliation](../../continuity/resonance-handoff-2026-09-23.md) records search coverage and conflicts. Eris’s cumulative response is now established in S13; no numerical slot in the original sequence is supplied.
 
-Record the conversation title, original ID or link when available, export/retrieval date, coverage, original filename, and checksum. Mark any excerpt or redaction and its reason; never call an excerpt a full transcript. Keep any editorial character index separate and link it to actual passages.
+## Future imports
 
-The governing Books' folder is identified as **The Deep** in ChatGPT project files. The precise source location and coverage of this character discussion still need the original conversation or export. Its relationship to “Raccoon Fuck V2.0” is not assumed solely from the follow-up wording.
-
-See [the current character evidence inventory](../../characters/README.md). No character dialogue or interaction rules have been invented in this edition.
+Preserve original bytes, chronological order, speaker roles, corrections, rejected ideas, reconstruction markers, and missing-attachment notices. Record source identity, retrieval date, coverage, and checksums. Never label a selected excerpt or a reconstructed handoff as the complete original conversation. Keep editorial synthesis separate. Recover the full underlying source when available without erasing these recovered artifacts. The supplied S13 workshop supersedes Eris’s earlier candidate-only state; retain both sources and their correction sequence.

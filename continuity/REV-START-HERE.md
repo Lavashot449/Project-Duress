@@ -14,7 +14,7 @@ The original public knowledge-base target was empty at inspection. The separate 
 - Echobound = What Was; Echo → Reverb; Reprisal Grenade.
 - Anchorforged = What Is; Anchor → Pin; Deadlock Grenade.
 - Shimmerstalker = What Would Be; Shimmer → Refract; Divergence Grenade.
-- Keep What Would Be, What Could Be, Could Never Be, and What Never Was distinct until the actual later explanation is recovered.
+- S09 supplies the current What Would Be → Could Never Be conceptual relationship. Read the current causal grammar; retain historical What Could Be wording without global substitution.
 - Do not overwrite older REVERB usage in archived material or rename character Echoes by global substitution.
 - The three Books remain the author-designated governing authority. The three September 9 author-supplied Books now have unchanged mirrors and derivative reading copies. Read the Book reconciliation before applying newer terminology to their older definitions.
 
@@ -26,6 +26,8 @@ Locked language is not a free pass to invent mechanics. Name the premise, the ev
 
 ## Next work
 
-The September 9 Rev Grimoire, Laws of Causality, and Tablets of Ruin have been supplied and mirrored from the author-identified **The Deep** library. Read [the reconciliation](books-reconciliation-2026-09-23.md) and [ritual language](ritual-and-archive-language.md). Next recover the full “Raccoon Fuck V2.0” conversation; the author is preparing a handoff. Also recover the complete character/Deepbearer interaction discussion, including Rhulk, Savathûn, Eris Morn, and all other characters actually discussed. The author explicitly requests the full conversation, not a replacement summary. Then recover approved Echo components, the full raid-boss roster, Exotics, and current mechanics. Import actual originals with provenance and mirror labels. Resolve the logged terminology conflicts from those sources rather than from general Destiny knowledge.
+The September 9 Rev Grimoire, Laws of Causality, and Tablets of Ruin have been supplied and mirrored from the author-identified **The Deep** library. Read [the reconciliation](books-reconciliation-2026-09-23.md) and [ritual language](ritual-and-archive-language.md). The Resonance Handoff has now recovered the Deep-Bearer conversation handoff (S10), character lenses (S11), and the supplied Eris candidate correction (S12). Read the eight-character axis and S09 before declaring a character gap. The full raw conversation still requires recovery. S12 recorded the candidate-only state; S13 now supplies the full Eris workshop and establishes her cumulative exclusionary response. Read the final author correction: “We drowned. We are.” Eris understands and hates herself because she does. Do not invent a linear slot or lock assistant dialogue. The author explicitly requests the full conversation, not a replacement summary. Then recover approved Echo components, the full raid-boss roster, Exotics, and current mechanics. Import actual originals with provenance and mirror labels. Resolve the logged terminology conflicts from those sources rather than from general Destiny knowledge.
 
 When reporting progress, distinguish source recovery, editorial synthesis, frozen canon, draft mechanics, and missing evidence. Do not claim completeness or say a mirror was added when only a placeholder register exists.
+
+Search before declaring gaps. Read [the current axis](../characters/deep-bearer-response-axis.md), [causal grammar](../causality/current-causal-grammar.md), and [Resonance Handoff](resonance-handoff-2026-09-23.md). Rhulk is not a Deep-Bearer; recognition supersedes curiosity for Savathûn. Pinning Strike and the Titan Aspects/Fragments rebuild are ACTIVE DEVELOPMENT. Preserve the early/current AI disclosure in AUTHORSHIP.
