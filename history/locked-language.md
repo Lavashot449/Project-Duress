@@ -10,3 +10,5 @@
 - What Could Be—PARADOX PREVAILS
 
 Source: [September 9 workshop guide](workshop-2026-09-09/README.md), “What is locked.” The older “What Could Be” footer is not silently rewritten to “What Would Be.” Its current relationship to the new terminology awaits the full later discussion.
+
+The subsequently supplied [Tablets of Ruin](../books-of-sorrow/tablets-of-ruin/2026-09-09/README.md), Tablet 003, independently supplies all six footer associations in the September 9 governing record. The historical wording above remains unchanged.

@@ -56,3 +56,7 @@ If A + B + C accompanies an outcome D, the successful attempt shows that the use
 - What is the exact current distinction among What Could Be, What Would Be, and Could Never Be?
 
 The September 9 discussion uses the Final Shape as a pressure test of continued possibility. It does not supply a complete proof that another meaningful change is always achievable. Keep the objection intact before proposing a repair.
+
+## Governing Books now available
+
+The September 9 [Book mirrors](../books-of-sorrow/README.md) now substantiate the foundations and name the cycle **The Perpetual**. [The Perpetual and limits](the-perpetual-and-limits.md) supplies the Book-backed account, including scope/capability scaling and temporary exhaustion from overreach. This page retains its workshop provenance; the open question about limits is narrowed by those qualitative rules, not resolved into numerical mechanics. [Reconciliation](../continuity/books-reconciliation-2026-09-23.md) preserves differences from the later freeze.

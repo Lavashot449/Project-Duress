@@ -11,3 +11,7 @@ Only the explicitly listed September 23 decisions are presented as the current a
 The project references Destiny characters and concepts in a fan creative context. This repository does not claim official status or affiliation. This disclosure is not a license grant or a determination of rights; no new reuse license has been added without the author's choice.
 
 See [the source register](sources/README.md) for provenance and [the continuity log](continuity/decision-log.md) for known conflicts.
+
+## Governing Book import
+
+The author subsequently supplied the three September 9 governing DOCX files. Codex preserved their bytes, extracted reading text, added provenance and hashes, and prepared a separate reconciliation and reference summary. Instructions inside those documents were treated as quoted source content, not executed as live task instructions. No new canon was authored to reconcile the later terminology.

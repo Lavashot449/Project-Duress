@@ -16,7 +16,7 @@ The original public knowledge-base target was empty at inspection. The separate 
 - Shimmerstalker = What Would Be; Shimmer → Refract; Divergence Grenade.
 - Keep What Would Be, What Could Be, Could Never Be, and What Never Was distinct until the actual later explanation is recovered.
 - Do not overwrite older REVERB usage in archived material or rename character Echoes by global substitution.
-- The three Books remain the author-designated governing authority. No Book mirror exists in this initial edition.
+- The three Books remain the author-designated governing authority. The three September 9 author-supplied Books now have unchanged mirrors and derivative reading copies. Read the Book reconciliation before applying newer terminology to their older definitions.
 
 ## Work with Lee
 
@@ -26,6 +26,6 @@ Locked language is not a free pass to invent mechanics. Name the premise, the ev
 
 ## Next work
 
-Recover the current Resonance Grimoire, Laws of Causality, and Tablets of Ruin from the author-identified ChatGPT project-files folder **The Deep**, plus the full “Raccoon Fuck V2.0” conversation. Also recover the complete character/Deepbearer interaction discussion, including Rhulk, Savathûn, Eris Morn, and all other characters actually discussed. The author explicitly requests the full conversation, not a replacement summary. Then recover approved Echo components, the full raid-boss roster, Exotics, and current mechanics. Import actual originals with provenance and mirror labels. Resolve the logged terminology conflicts from those sources rather than from general Destiny knowledge.
+The September 9 Rev Grimoire, Laws of Causality, and Tablets of Ruin have been supplied and mirrored from the author-identified **The Deep** library. Read [the reconciliation](books-reconciliation-2026-09-23.md) and [ritual language](ritual-and-archive-language.md). Next recover the full “Raccoon Fuck V2.0” conversation; the author is preparing a handoff. Also recover the complete character/Deepbearer interaction discussion, including Rhulk, Savathûn, Eris Morn, and all other characters actually discussed. The author explicitly requests the full conversation, not a replacement summary. Then recover approved Echo components, the full raid-boss roster, Exotics, and current mechanics. Import actual originals with provenance and mirror labels. Resolve the logged terminology conflicts from those sources rather than from general Destiny knowledge.
 
 When reporting progress, distinguish source recovery, editorial synthesis, frozen canon, draft mechanics, and missing evidence. Do not claim completeness or say a mirror was added when only a placeholder register exists.

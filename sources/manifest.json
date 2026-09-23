@@ -44,15 +44,72 @@
       "title": "Raccoon Fuck V2.0",
       "full_thread_retrieved": false,
       "limitations": "Preview only; attached image unavailable."
+    },
+    {
+      "id": "S06",
+      "kind": "author_supplied_governing_book_mirror",
+      "title": "Rev Grimoire",
+      "original_filename": "Rev Grimoire - Manifested 2026-09-09.docx",
+      "declared_state": "MANIFESTED STATE — 09 SEPTEMBER 2026",
+      "author_reported_location": "ChatGPT project files / The Deep",
+      "retrieved_on": "2026-09-23",
+      "copy": "books-of-sorrow/rev-grimoire/2026-09-09/original.docx",
+      "original_sha256": "12986015968f63e313376976568f531e79485ffdee3f8275252f14efddf333fc",
+      "sha256": "12986015968f63e313376976568f531e79485ffdee3f8275252f14efddf333fc",
+      "reading_copy": "books-of-sorrow/rev-grimoire/2026-09-09/reading.txt",
+      "reading_sha256": "1439a156d4dd247162e1af890e3c795a93c9a51c452ea7110d9f55882bedb81d",
+      "authority": "Mirror of author-supplied Book; original authority remains in The Deep; later explicit author freezes recorded separately."
+    },
+    {
+      "id": "S07",
+      "kind": "author_supplied_governing_book_mirror",
+      "title": "The Laws of Causality",
+      "original_filename": "The Laws of Causality - Manifested 2026-09-09.docx",
+      "declared_state": "MANIFESTED STATE — 09 SEPTEMBER 2026",
+      "author_reported_location": "ChatGPT project files / The Deep",
+      "retrieved_on": "2026-09-23",
+      "copy": "books-of-sorrow/laws-of-causality/2026-09-09/original.docx",
+      "original_sha256": "912474ec34a285ab6f2d9a93f1b2380e57d8b0ee858f0482fb8f8e1292497bb5",
+      "sha256": "912474ec34a285ab6f2d9a93f1b2380e57d8b0ee858f0482fb8f8e1292497bb5",
+      "reading_copy": "books-of-sorrow/laws-of-causality/2026-09-09/reading.txt",
+      "reading_sha256": "f82c9fbea61b563ab3c23d9df349d4fc575706be93162cf3acb07d207bff4af1",
+      "authority": "Mirror of author-supplied Book; original authority remains in The Deep; later explicit author freezes recorded separately."
+    },
+    {
+      "id": "S08",
+      "kind": "author_supplied_governing_book_mirror",
+      "title": "The Tablets of Ruin",
+      "original_filename": "The Tablets of Ruin - Manifested 2026-09-09.docx",
+      "declared_state": "MANIFESTED STATE — 09 SEPTEMBER 2026",
+      "author_reported_location": "ChatGPT project files / The Deep",
+      "retrieved_on": "2026-09-23",
+      "copy": "books-of-sorrow/tablets-of-ruin/2026-09-09/original.docx",
+      "original_sha256": "3b80fcf40380b4a5bfec64927d1f1c8f8dd62dadd865777a63d644536a30afea",
+      "sha256": "3b80fcf40380b4a5bfec64927d1f1c8f8dd62dadd865777a63d644536a30afea",
+      "reading_copy": "books-of-sorrow/tablets-of-ruin/2026-09-09/reading.txt",
+      "reading_sha256": "71773d52696e3ee07619783ec94c8e6e1cc98925ea436c6b57ae6d7ae81c4531",
+      "authority": "Mirror of author-supplied Book; original authority remains in The Deep; later explicit author freezes recorded separately."
     }
   ],
-  "governing_mirrors": [],
-  "missing_governing_sources": [
-    "Resonance Grimoire",
-    "Laws of Causality",
-    "Tablets of Ruin"
+  "governing_mirrors": [
+    {
+      "source_id": "S06",
+      "path": "books-of-sorrow/rev-grimoire/2026-09-09",
+      "declared_state": "2026-09-09"
+    },
+    {
+      "source_id": "S07",
+      "path": "books-of-sorrow/laws-of-causality/2026-09-09",
+      "declared_state": "2026-09-09"
+    },
+    {
+      "source_id": "S08",
+      "path": "books-of-sorrow/tablets-of-ruin/2026-09-09",
+      "declared_state": "2026-09-09"
+    }
   ],
-  "author_reported_book_location": "ChatGPT project files / The Deep (not on this computer; contents not inspected)",
+  "missing_governing_sources": [],
+  "author_reported_book_location": "ChatGPT project files / The Deep; September 9 versions supplied by author and mirrored on September 23; no direct folder access or live synchronization.",
   "missing_conversations": [
     "Full Raccoon Fuck V2.0 discussion and attachments",
     "Full character/Deepbearer interaction discussion including Rhulk, Savathun, Eris Morn, and other characters actually discussed"

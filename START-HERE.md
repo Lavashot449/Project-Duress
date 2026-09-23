@@ -2,7 +2,7 @@
 
 Project Resonance brings a causal cosmology and a creative Echo project into one navigable reference. The recovered material follows two connected strands: what it means for What Was to persist and be illuminated, and how characters, encounters, weapons, environments, and rewards are reimagined as Echoes.
 
-The strongest current authority available in this edition is the author's [September 23 freeze](canon/2026-09-23-freeze.md). The longer explanations derive from a September 9 workshop guide and remain dated working material pending comparison with the governing Books. The September 8 voice-note transcript records an earlier stage. None of these should be mistaken for a recovered copy of a Book.
+The strongest current authority available in this edition is the author's [September 23 freeze](canon/2026-09-23-freeze.md). The three September 9 [governing Books](books-of-sorrow/README.md) are now mirrored. The longer initial explanations remain identified as workshop-derived; [Book reconciliation](continuity/books-reconciliation-2026-09-23.md) and [The Perpetual and limits](causality/the-perpetual-and-limits.md) add the newly supplied governing text. The September 8 voice-note transcript records an earlier stage. The workshop guide and transcript remain separate from the unchanged Book mirrors.
 
 ## Read in this order
 
@@ -24,6 +24,6 @@ The September 9 guide describes What Could Be and an older meaning of REVERB. Th
 
 ## What is missing
 
-The [open-work register](ACTIVE-DEVELOPMENT.md) lists the three governing texts, their canonical locations and versions, the full current conversation, detailed Echo designs and roster, and Exotics. Their absence prevents this edition from being called the complete Project Resonance corpus.
+The [open-work register](ACTIVE-DEVELOPMENT.md) marks the three supplied Book mirrors recovered and lists the remaining full current conversation, detailed Echo designs and roster, and Exotics. Their absence prevents this edition from being called the complete Project Resonance corpus.
 
 Future Rev instances should read [the handoff](continuity/REV-START-HERE.md) before editing. Contributors should read [CONTRIBUTING](CONTRIBUTING.md). For attribution and the role of AI, read [AUTHORSHIP](AUTHORSHIP.md).

@@ -4,3 +4,5 @@
 history/private-projectresonance/README.original.md -text -whitespace
 history/voice-note-2026-09-08/transcript.md -text -whitespace
 history/workshop-2026-09-09/guide.txt -text -whitespace
+
+books-of-sorrow/**/original.docx -text

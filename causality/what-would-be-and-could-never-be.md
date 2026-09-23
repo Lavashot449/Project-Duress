@@ -23,3 +23,7 @@ The recovered S03 model distinguishes the occurrence of conceiving or attempting
 - Does the distinction define any specific part of Refract or Divergence Grenade?
 
 These are editorial recovery questions, not proposed answers or additional canon. No claim about destroyed timelines, erased history, universal impossibility, or branching worlds is supplied here.
+
+## Boundary supplied by the Laws
+
+The author-supplied [Laws of Causality](../books-of-sorrow/laws-of-causality/2026-09-09/README.md), section 2, explicitly distinguishes a failed path from knowledge that an outcome can never occur. This rules out treating failure alone as the missing explanation of Could Never Be. The Book does not supply the full later distinction requested by the author; the handoff remains necessary.

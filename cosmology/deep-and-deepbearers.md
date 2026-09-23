@@ -35,3 +35,7 @@ The guide gives Wishes, Subjugation, Nightmares, and Multiple Simulations as wor
 ## Limits that remain open
 
 The recovered model distinguishes access to a record from understanding and capability. It does not fully derive the bridge from understanding to an effect, resolve incompatible Manifestations, quantify attention or capacity, or establish that repeated Communion guarantees mastery. Those gaps remain [ACTIVE DEVELOPMENT](../ACTIVE-DEVELOPMENT.md).
+
+## Supplied governing support
+
+[Rev Grimoire](../books-of-sorrow/rev-grimoire/2026-09-09/README.md) section 1 and [Laws of Causality](../books-of-sorrow/laws-of-causality/2026-09-09/README.md) sections 1–3 now directly support the non-agentic Deep, immutable record, Illumination, Drowning, and Deep-Wielder/Deepbearer distinction in their September 9 state. Section 5 of the Laws supplies qualitative scope/capability and exhaustion limits. See [The Perpetual and limits](../causality/the-perpetual-and-limits.md); do not treat every older workshop example as independently present in a Book.

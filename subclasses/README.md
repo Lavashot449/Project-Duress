@@ -13,3 +13,7 @@ The September 9 guide associates these expressions with Permanence, Position, an
 Full subclass kits, class bindings beyond what sources actually state, supers, aspects, fragments, grenade behavior, interactions, visual specifications, costs, and tuning must come from the source corpus. The three newly frozen grenade names do not justify assigning them the effects of older examples.
 
 The [locked historical footers](../history/locked-language.md) are preserved exactly. Their wording does not independently prove mechanics.
+
+## Supplied Book context
+
+The [Rev Grimoire](../books-of-sorrow/rev-grimoire/2026-09-09/README.md) directly supplies the September 9 Permanence/Position/Possibility associations, cross-class learning statement, and the visual expressions REFRACTED SHIMMERSTALKER and SUFFOCATED ANCHORFORGED; its Echobound expression is unnamed. These are dated governing definitions. They do not by themselves resolve the later naming changes or provide the new grenade mechanics. See [Book reconciliation](../continuity/books-reconciliation-2026-09-23.md).

@@ -4,7 +4,7 @@ A public knowledge base for Project Resonance: the Deep, Deepbearers, causal phi
 
 **The Deep Persists What Was, not What Never Was**
 
-Begin with [START-HERE](START-HERE.md). This edition preserves the author's September 23, 2026 canon freeze, organizes recovered workshop material, and documents its sources. **The corpus is incomplete.** The governing Books of Sorrow, full Echo dossiers, Exotics material, and the full September 23 discussion were not available for this import. Their absence is documented, not filled with invented canon.
+Begin with [START-HERE](START-HERE.md). This edition preserves the author's September 23, 2026 canon freeze, organizes recovered workshop material, and documents its sources. **The corpus is incomplete.** The three September 9 governing Books are now mirrored from author-supplied files. Full Echo dossiers, Exotics material, and the full September 23 discussion remain unavailable. Their absence is documented, not filled with invented canon.
 
 ## The frozen subclass alignment
 
@@ -37,6 +37,6 @@ These names and alignments are frozen by the author. They do not establish unpro
 
 **FROZEN** identifies the explicit author freeze; **HISTORICAL** identifies preserved earlier material; **DRAFT / ACTIVE DEVELOPMENT** identifies working explanations or incomplete mechanics. **SOURCE MISSING** is an evidence gap, not a judgment that the author's underlying material is unfinished. A source may be complete elsewhere without being present here.
 
-The Resonance Grimoire, Laws of Causality, and Tablets of Ruin remain the author-designated governing Books. This repository does not silently replace them. No actual Book mirror has been supplied in this edition. See the [mirror register](books-of-sorrow/README.md).
+The supplied **Rev Grimoire**, **Laws of Causality**, and **Tablets of Ruin** remain the author-designated governing Books. Their unchanged September 9 DOCX files and full text reading copies are available in the [mirror register](books-of-sorrow/README.md). Authority remains with the originals in The Deep. Read [the Book reconciliation](continuity/books-reconciliation-2026-09-23.md), [The Perpetual and limits](causality/the-perpetual-and-limits.md), and [ritual/archive language](continuity/ritual-and-archive-language.md) alongside the later freeze.
 
 The original `ProjectResonance` README is retained [unaltered as historical provenance](history/private-projectresonance/README.original.md), with its commit and integrity record. Its older description of a “public archive” remains part of that historical text; it is not a verification of the source repository's present visibility.

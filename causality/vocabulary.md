@@ -26,3 +26,7 @@
 | Echo — character/encounter use | Creative reimagining assembled from FORM, VOICE, POWER, BOONS, DOMAIN. | S02 HISTORICAL workflow; not globally renamed. |
 
 Do not conflate the record of imagining an event with the event itself. Do not turn a naming transition into a numerical mechanic. Preserve source dates when the same word has different uses.
+
+## Additional governing vocabulary
+
+The supplied Books name **THE PERPETUAL** as the universal cycle. [The Perpetual and limits](the-perpetual-and-limits.md) summarizes its laws and capacity limits. [Ritual/archive language](../continuity/ritual-and-archive-language.md) documents MANIFEST, ILLUMINATE, MANIFEST FAILED, COMMUNE, CRAFT THE PATTERN, FULLY MANIFEST, DROWN, DIMMED, and the visual states. The [Book reconciliation](../continuity/books-reconciliation-2026-09-23.md) distinguishes the September 9 definitions from newer explicit naming.
