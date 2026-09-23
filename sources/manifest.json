@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "retrieved_on": "2026-09-23",
+  "sources": [
+    {
+      "id": "S01",
+      "kind": "selected_author_directive_excerpts",
+      "copy": "sources/2026-09-23-author-directive.md",
+      "sha256": "3074c16fd62257a6c9dcced473f36fa2bfac0863a90b2b0173208456e4a1f911",
+      "authority": "explicit freeze limited to quoted statements"
+    },
+    {
+      "id": "S02",
+      "kind": "exact_git_blob",
+      "repository": "https://github.com/Lavashot449/ProjectResonance",
+      "commit": "f3e619d84197b03e394086140c7b3a6d58a866a7",
+      "original_path": "README.md",
+      "git_blob": "0db32127b10187f169d73505cfeb7f72146da5b9",
+      "copy": "history/private-projectresonance/README.original.md",
+      "sha256": "aa2aa3089bc41877e83f07e5dd3b2fa3b39723b48c18b3c2528245192e21c6f1"
+    },
+    {
+      "id": "S03",
+      "kind": "docx_main_body_paragraph_text_extraction",
+      "original_filename": "Project_Resonance_Workshop_Guide.docx",
+      "original_sha256": "51e4225df75c01c7f106795d1145a6cee2326db1e7a0c9fcd3cb63846a2c05d2",
+      "copy": "history/workshop-2026-09-09/guide.txt",
+      "sha256": "d6e4a423861ed60e42f5c7b4a22550165477f85fda62dbccee24d0780fdd0342",
+      "limitations": "No styles, page layout, running footer, or document metadata; historical page references retained; not a governing mirror."
+    },
+    {
+      "id": "S04",
+      "kind": "exact_transcript_file_copy",
+      "original_filename": "Lee_to_Doggo_full_transcript.md",
+      "original_sha256": "6374dd8b7b5a14d03dab123fa0c37b792fb080d05f8fa384ff34d3c5c6f4d7d3",
+      "copy": "history/voice-note-2026-09-08/transcript.md",
+      "sha256": "6374dd8b7b5a14d03dab123fa0c37b792fb080d05f8fa384ff34d3c5c6f4d7d3",
+      "limitations": "Automated transcript with original uncertainty notices; audio not re-audited."
+    },
+    {
+      "id": "S05",
+      "kind": "bounded_conversation_preview",
+      "conversation_id": "6aab5c15-bb20-83ea-9044-d5b9ee064196",
+      "title": "Raccoon Fuck V2.0",
+      "full_thread_retrieved": false,
+      "limitations": "Preview only; attached image unavailable."
+    }
+  ],
+  "governing_mirrors": [],
+  "missing_governing_sources": [
+    "Resonance Grimoire",
+    "Laws of Causality",
+    "Tablets of Ruin"
+  ],
+  "author_reported_book_location": "ChatGPT project files / The Deep (not on this computer; contents not inspected)",
+  "missing_conversations": [
+    "Full Raccoon Fuck V2.0 discussion and attachments",
+    "Full character/Deepbearer interaction discussion including Rhulk, Savathun, Eris Morn, and other characters actually discussed"
+  ]
+}
