@@ -1,16 +1,20 @@
 # Authority and status
 
-The [September 25 author handoff (D01)](../sources/2026-09-25-author-handoff.md) governs this scoped Post-Drowning rebuild. The supplied conversation preview is bounded and truncated; it does not provide a complete source transcript.
+[The initial directive D01](../sources/2026-09-25-author-handoff.md) established the scoped rebuild. The author then supplied [D03](../sources/post-drowning-workshop-2026-09-25/README.md), describing it as the entire Duress workshop so far. D03 expands that foundation and refines the short definitions.
+
+D03 is a structured handoff containing established foundation, working directions, candidates, jokes, and reported feedback. Preserve its local status labels; its title does not finalize every proposal.
 
 | Status | Meaning |
 |---|---|
-| ESTABLISHED FOUNDATION | The statements explicitly established in D01; does not finalize unspecified mechanics |
-| WORKING NAME | Duress is the current project/subclass name, without a claim of permanent naming |
-| CANDIDATE | Explicitly retained for consideration; not approved as a complete design |
-| UNRESOLVED | No approved detail supplied for this rebuild; do not fill with invention |
-| NON-CANONICAL WORKSHOP | Explanatory workshop material, not literal mechanics or lore |
-| HISTORICAL RESONANCE | Unchanged pre-Duress material inside What Was Resonance |
+| ESTABLISHED FOUNDATION | Explicit foundational statements; no implied completion of unspecified mechanics |
+| WORKING DESIGN | Supplied gameplay or lore direction, still provisional |
+| WORKING NAME | Duress is current, without permanent naming claimed |
+| CANDIDATE | Retained for consideration, not a complete approved design |
+| UNRESOLVED | No final decision supplied |
+| NON-CANONICAL WORKSHOP | Explanatory shorthand, analogy, or joke |
+| REPORTED FEEDBACK | A reaction recorded in D03, not independently verified testing |
+| HISTORICAL RESONANCE | Unchanged content in What Was Resonance |
 
-Historical Books and freeze records preserve their authority claims within the historical Resonance edition. Their presence does not import those laws into Duress. Future survival decisions require explicit author establishment and a separate active record; the archived original remains unchanged.
+D03 is preserved as an unchanged DOCX and derivative reading copy. It is not relabeled as a raw turn-by-turn chat export. D02 remains a bounded preview. The [integration record](../continuity/2026-09-25-workshop-integration.md) documents refinements without rewriting the initial source or migration audit.
 
-Do not silently carry Echobound, Anchorforged, or Shimmerstalker mechanics forward. Do not infer abilities, Aspects, Fragments, Supers, grenades, class names, perks, or visual laws from primitives, metaphors, archive text, or the renamed repository.
+Historical Books and freeze records retain their authority claims within the Resonance edition. They do not import laws into Duress. Do not silently restore old class names, causal alignments, verbs, The Perpetual, kits, perks, or visual laws. Further survival requires explicit author establishment.

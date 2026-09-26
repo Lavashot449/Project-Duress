@@ -2,9 +2,12 @@
 
 | ID | Source | Scope and limits |
 |---|---|---|
-| D01 | [September 25, 2026 author handoff](2026-09-25-author-handoff.md) | Direct user request; verbatim request body preserved separately from editorial pages |
-| D02 | Supplied bounded preview of “Raccoon Fuck V2.0” | Truncated context from conversation `6aab5c15-bb20-83ea-9044-d5b9ee064196`; not a complete transcript or independent canon authority |
+| D01 | [Initial September 25 directive](2026-09-25-author-handoff.md) | Direct user request, preserved verbatim |
+| D02 | Bounded preview of “Raccoon Fuck V2.0” | Truncated context from conversation 6aab5c15-bb20-83ea-9044-d5b9ee064196; not a full transcript |
+| D03 | [Post-Drowning workshop handoff](post-drowning-workshop-2026-09-25/README.md) | Author-supplied DOCX described as the entire workshop so far; unchanged original and complete main-body text derivative |
 
-No callable full-conversation reader was available in this session. The complete chat and its attachments were not retrieved. Active content is limited to the explicit foundation, candidate statuses, and workshop language supplied in D01.
+D03 closes the initial workshop-handoff gap, expanding definitions and supplying working gameplay, lore implications, candidates, and reported feedback. It does not finalize every proposal.
 
-The pre-Duress source register and originals remain unchanged in [What Was Resonance](../What%20Was%20Resonance/sources/README.md). That archive is historical evidence, not an automatic source of active Duress rules.
+No raw conversation export or direct full-thread retrieval is claimed. See [authority](../canon/authority-and-status.md), the [integration record](../continuity/2026-09-25-workshop-integration.md), and [integrity manifest](manifest.json).
+
+Pre-Duress sources remain unchanged in the [historical source register](../What%20Was%20Resonance/sources/README.md).

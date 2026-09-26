@@ -1,30 +1,32 @@
 # Project Duress
 
-**The Deep = Pressure.**
+**Pressure. Give something more than it can handle until it has nothing left to give.**
 
-Duress is the current project/subclass **working name** for the Post-Drowning foundation. The foundation below is author-established; the name does not imply a finished subclass or finalized design details.
+Warlocks overwhelm the **Mind**. Titans overwhelm the **Body**. Hunters overwhelm the **Senses**. Thought, movement, or perception fails under the load.
 
-The Deep is non-agentic and non-sentient. It releases Pressure. A Medium is anything Pressure can be applied to. Pressure naturally dissipates; Suffocation occurs when it accumulates faster than it dissipates. Drowning is faculty failure under Pressure.
+A Deep-Bearer learned that Pressure did not have to stop in them. They can **Offload** it into another Medium. Carrying more offers power and greater danger; moving it keeps the conduit functional.
 
-A Deep-Bearer became Fully Drowned and discovered Offload, becoming a conduit for Pressure. Mastery never grants authority over the Deep.
+**SIMPLE TO WIELD. DEEP TO UNDERSTAND.**
 
-> Provide Everything until Nothing is left to give
+Duress is the current project/subclass **working name**. Its foundation is established; complete kits and tuning remain in development.
 
-## Read the active project
+## Explore Duress
 
-| Page | Purpose |
+| Page | Read about |
 |---|---|
-| [Post-Drowning foundation](canon/post-drowning-foundation.md) | Established definitions, faculty failure, Offload, Pressure-Dense, and Primal Understanding |
-| [Status and authority](canon/authority-and-status.md) | What is established, provisional, non-canonical, or historical |
-| [Open design and candidates](ACTIVE-DEVELOPMENT.md) | Unresolved mechanics and the two explicitly limited survivor candidates |
-| [Workshop notes](workshop/caveman-qa.md) | Non-canonical Caveman QA explanation |
-| [Source record](sources/README.md) | Author handoff, provenance, and retrieval limits |
-| [Migration audit](continuity/2026-09-25-migration.md) | Preservation checkpoint and exact archive verification |
+| [Foundation](canon/post-drowning-foundation.md) | The Deep, Mediums, and subtraction through excess |
+| [Core mechanics](mechanics/pressure-and-drowning.md) | Suffocation, Drowning, Offload, Release, and Pressure-Dense |
+| [Class primitives](classes/primitives.md) | KNOW EVERYTHING, BEAR EVERYTHING, SEE EVERYTHING |
+| [Primal Understanding and mastery](lore/primal-understanding-and-mastery.md) | Specialization, precision, and the cost of mastery |
+| [Deep-Bearers and conflict](lore/deep-bearers-and-conflict.md) | Conduits, cross-medium combat, morality, and future lore |
+| [Workshop](workshop/README.md) | Working gameplay, candidates, Caveman QA, and control tests |
+| [Open development](ACTIVE-DEVELOPMENT.md) | Unresolved decisions |
+| [Authority and sources](canon/authority-and-status.md) | Foundation versus working design and historical evidence |
+
+The author-supplied [Post-Drowning workshop handoff](sources/post-drowning-workshop-2026-09-25/README.md) is preserved unchanged with a full paragraph-text reading copy.
 
 ## What Was Resonance
 
-The **entire pre-Duress repository** is preserved intact in [What Was Resonance](What%20Was%20Resonance/README.md), including its Books, source copies, historical records, and material that may later survive into Duress.
+The entire pre-Duress repository remains intact in [What Was Resonance](What%20Was%20Resonance/README.md). Its historical “current,” “frozen,” and authority language belongs to that edition. No archived mechanics or visual laws automatically carry forward.
 
-**That directory is historical Resonance, not active Duress canon.** Its original “current,” “frozen,” governing-authority, and editing language belongs to that preserved edition. No archived mechanics or visual laws automatically carry forward. The archive has not been rewritten to agree with Duress.
-
-See [archive boundaries and recovery](ARCHIVE.md). Project history and attribution remain available in the unchanged [historical authorship record](What%20Was%20Resonance/AUTHORSHIP.md).
+See [archive recovery](ARCHIVE.md), the [migration audit](continuity/2026-09-25-migration.md), and the [workshop integration record](continuity/2026-09-25-workshop-integration.md). Historical attribution remains in the unchanged [authorship record](What%20Was%20Resonance/AUTHORSHIP.md).

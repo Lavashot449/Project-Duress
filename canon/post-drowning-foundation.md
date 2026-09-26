@@ -1,53 +1,43 @@
 # Post-Drowning Duress foundation
 
-**Status: ESTABLISHED FOUNDATION — scoped to the author's September 25, 2026 handoff.** This is an editorial organization of [D01](../sources/2026-09-25-author-handoff.md), not a complete conversation transcript or a finalized subclass kit.
+**Status: ESTABLISHED FOUNDATION.** Sources: [D01](../sources/2026-09-25-author-handoff.md) and the later [D03 workshop handoff](../sources/post-drowning-workshop-2026-09-25/README.md), sections 1–8, 13–16, 20, 30–32, and 35. This is an editorial organization, not a finalized subclass kit.
 
-## The Deep and Pressure
+## The Deep and Mediums
 
-- **The Deep = Pressure.**
-- The Deep is non-agentic and non-sentient; it releases Pressure.
-- A **Medium** is anything Pressure can be applied to.
-- Pressure naturally dissipates.
-- **Suffocation** is Pressure accumulating faster than it dissipates.
-- **Drowning** is faculty failure under Pressure.
+**The Deep = Pressure:** the crushing weight of knowledge or power, exerted through a Medium.
 
-The Deep is morally inert. Morality belongs to the wielder.
+The Deep has no sentience, agency, or moral alignment. It releases/exerts Pressure. It does not choose, reward, punish, judge, recognize mastery, grant permission, or show mercy. Morality belongs to the wielder.
 
-## Faculties and Drowning
+A **Medium** is anything Pressure can be applied to. Mind, Body, and Senses are the current class-relevant faculties, not an exhaustive taxonomy. Physical pressure provides an intuitive analogy. Ocean/depth/drowning imagery does not make Duress water magic.
 
-Mind, Body, and Senses can Drown independently. All three failing means **Fully Drowned / Drown in the Deep**.
+## Subtraction through excess
 
-| Class | Primitive | Faculty |
-|---|---|---|
-| Warlock | **KNOW EVERYTHING** | Mind |
-| Titan | **BEAR EVERYTHING** | Body |
-| Hunter | **SEE EVERYTHING** | Senses |
-
-These are established primitives and faculty associations. They do not specify new subclass names, abilities, or completed kits.
-
-## The Deep-Bearer and Offload
-
-A Deep-Bearer became Fully Drowned and discovered **Offload**, becoming a conduit for Pressure.
-
-Mastery never grants authority over the Deep. Cross-medium Pressure can Drown a Deep-Bearer when applied faster than they can Offload.
-
-## Pressure-Dense
-
-**Pressure-Dense** is the razor-edge equilibrium immediately below Drowning.
-
-- In gameplay, it is **binary**.
-- In lore, it is **cumulative/dynamic**.
-
-No numerical threshold, meter, duration, buff, or implementation rule is established by those statements.
-
-## Primal Understanding
-
-**Primal Understanding survived.** It governs specialization, speed, and precision in handling Pressure rather than exclusive access to a Medium.
-
-## Subtraction
+Duress applies more until a Medium exhausts every response it can give. Subtraction is the result of excess.
 
 > Provide Everything until Nothing is left to give
 
-## Scope
+D03 section 4 also states: **PROVIDE EVERYTHING, AND SOON NOTHING IS LEFT TO GIVE.** Both formulations remain preserved in their sources.
 
-Duress remains the current project/subclass working name. [Open design](../ACTIVE-DEVELOPMENT.md) records unresolved mechanics and limited candidates. [Caveman QA](../workshop/caveman-qa.md) is a non-canonical workshop explanation.
+| Class | Faculty | Primitive | Failure |
+|---|---|---|---|
+| Warlock | Mind | KNOW EVERYTHING | THINK NOTHING |
+| Titan | Body | BEAR EVERYTHING | MOVE NOWHERE |
+| Hunter | Senses | SEE EVERYTHING | PERCEIVE NOTHING |
+
+These are conceptual primitives, not finalized subclass names. See [class expressions](../classes/primitives.md).
+
+## Core states
+
+Pressure naturally dissipates. **Suffocation** is Pressure accumulating faster than it can dissipate or be Offloaded. **Drowning** is faculty failure when accumulated Pressure exceeds functional capacity.
+
+Faculties can Drown independently. All three failing means **Fully Drowned / Drown in the Deep**. This is not automatic death; recovery can occur as Pressure dissipates.
+
+A **Deep-Bearer** became Fully Drowned and discovered **Offload**: deliberate transfer of Pressure into another Medium. They are conduits, not immune containers.
+
+**Pressure-Dense** is controlled Suffocation immediately below failure: binary in gameplay and cumulative/dynamic in lore. [Core mechanics](../mechanics/pressure-and-drowning.md) distinguishes established states from [working effects](../workshop/gameplay-directions.md).
+
+## Specialization and naming
+
+**Primal Understanding** governs naturalness, precision, efficiency, and speed, not exclusive access to a Medium. Cross-medium Pressure can Drown a Deep-Bearer when applied faster than they can Offload or dissipate it. Mastery never grants authority over the Deep; greater conductivity can increase exposure.
+
+Duress remains the working project/subclass name. The Deep is the underlying foundation/source concept, not the subclass name. The Deep, Drown in the Deep, and Primal Understanding explicitly survived through clarification or independent re-derivation. Other material retains the limits in [candidates and survival](../workshop/candidates-and-survival.md).

@@ -1,16 +1,24 @@
-# Open design and candidates
+# Open development
 
-**Status: UNRESOLVED / CANDIDATE, as scoped below.**
+The [D03 handoff](sources/post-drowning-workshop-2026-09-25/README.md) supplies the workshop state provided by the author. Active pages separate [foundation](canon/post-drowning-foundation.md), [working gameplay](workshop/gameplay-directions.md), and [candidates](workshop/candidates-and-survival.md).
 
-The [foundation](canon/post-drowning-foundation.md) is established. This register marks the limits of the supplied handoff; it does not claim that every missing detail is absent from the author's broader work.
+| Item | Current status / remaining decision |
+|---|---|
+| Duress and class names | Duress is the working project/subclass name; final class names unresolved |
+| Supers, grenades, melees, Aspects, Fragments | No finished kits supplied; no invented or imported old kits |
+| Additional class/status verbs | Unresolved beyond established universal terms |
+| Pressure-Dense | Binary state established; regeneration/damage working effects; exact triggers, values, duration, stacking, UI, tuning unresolved |
+| Offload economy | Class-specific energy returns are strong working directions; implementation/values unresolved |
+| Player Drowning | Faculty-relevant examples supplied; exact effects/timers unresolved |
+| Released Pressure | Reclaiming established in lore; gameplay representation unresolved |
+| Full Drowning | Not automatic death; gameplay payoff/boss behavior unresolved |
+| Voice | Warlock honorable mention/escalation candidate only |
+| Hostile Deep-Bearer group | Future concept; name/full lore unresolved |
+| Weight of Consequence | Strong gauntlet name/visual candidate; new perk unresolved |
+| Visual assets/tiers | Inward collapse and Pressure Imprint have limited candidate status; no blanket carryover |
+| Old names/causal mechanics | No automatic return; independent re-emergence requires author decision |
+| Doggo's air suggestion | Neither accepted nor rejected; revisit after full-concept discussion |
+| Lou's Titan test | Pending; no result supplied |
+| Raw conversation export | Not retrieved; D03 is a structured workshop handoff, not a turn-by-turn export |
 
-| Item | Current status | Boundary |
-|---|---|---|
-| Duress | Current project/subclass working name | Do not claim permanent naming or a completed design |
-| Abilities, Aspects, Fragments, Supers, grenades, and new class/subclass names | Unresolved in this handoff | Do not invent or import old kits |
-| Detailed gameplay behavior and numerical tuning | Unresolved in this handoff | Pressure-Dense being binary does not supply thresholds, effects, or timing |
-| Weight of Consequence | Strong survivor candidate only | No rebuilt or invented perk; no automatic carryover of an old perk |
-| THE DEEP COLLAPSES INWARD | Candidate/surviving visual idea only | No broad recanonization of old visual laws without explicit author approval |
-| Complete Post-Drowning conversation and attachments | Not retrieved in this pass | D01 supplies the scoped foundation; do not label this edition a full transcript |
-
-Echobound, Anchorforged, and Shimmerstalker material remains in the [historical archive](ARCHIVE.md). Archiving a design preserves it; it does not approve that design for Duress.
+Historical content remains in [What Was Resonance](ARCHIVE.md). The first migration's narrower source boundary is preserved as a dated record; the expansion is documented in the [integration audit](continuity/2026-09-25-workshop-integration.md).
