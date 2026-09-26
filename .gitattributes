@@ -1,3 +1,5 @@
 * text=auto eol=lf
 *.md text eol=lf
 *.txt text eol=lf
+sources/**/original.docx -text
+sources/**/reading.txt -text -whitespace

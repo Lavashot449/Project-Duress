@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "supplied_on": "2026-09-25",
+  "sources": [
+    {
+      "id": "D03",
+      "kind": "author_supplied_structured_workshop_handoff",
+      "supplied_filename": "Project_Duress_Post_Drowning_Handoff.docx",
+      "copy": "sources/post-drowning-workshop-2026-09-25/original.docx",
+      "sha256": "1c1debe5b1674f91e782aae839ce08104a193ba3c86b394a75c991343edfd9c2",
+      "reading_copy": "sources/post-drowning-workshop-2026-09-25/reading.txt",
+      "reading_sha256": "4bc604adadaacbd81664c6f4d0f208f05abed3491de3bc616d670b75748f7945",
+      "main_body_paragraph_count": 336,
+      "section_numbers": "0-37",
+      "full_raw_conversation_export": false,
+      "limitations": "Reading copy preserves main-body paragraph text, not formatting, page layout, numbering metadata, or internal break layout. Source statuses remain distinct."
+    }
+  ]
+}

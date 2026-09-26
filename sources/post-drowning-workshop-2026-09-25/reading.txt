@@ -1,0 +1,336 @@
+PROJECT DURESSPOST-DROWNING HANDOFF
+Authoritative canon + workshop state for Work Rev
+0. Work Rev: Read This First
+The existing pre-Duress Project Resonance material has already been archived under `What Was Resonance`. Preserve that archive intact. It is What Was, not a specification for What Is.
+Rebuild the active/public-facing repository around the Post-Drowning Duress material in this document.
+Do NOT use archived Resonance material to silently fill gaps.
+Do NOT invent abilities, Aspects, Fragments, Supers, grenades, final class names, exact numerical tuning, perk text, or unresolved visual laws.
+Do NOT automatically restore Echobound, Anchorforged, Shimmerstalker, What Was / What Is / What Would Be, Permanence / Position / Possibility, old causal verbs, or The Perpetual.
+If an old Resonance concept appears here, it survived because it was explicitly re-derived or preserved.
+`Duress` is the current project/subclass working name and repo name. Do not pretend unresolved design decisions are finalized.
+Keep workshop jokes and candidates labeled as such.
+1. Why Resonance Was Drowned
+External review identified that causality required too much high-level knowledge before the subclass power fantasy became intuitive. The problem was not simply wording: Resonance was being explained from metaphysics downward.
+DESIGN LAW: SIMPLE TO WIELD. DEEP TO UNDERSTAND.
+The clean-sheet question became: If Destiny needed a third Darkness subclass and Project Resonance had never existed, what would we build? Nothing was protected. The answer that emerged was Pressure and the system now called Duress.
+2. The Deep
+THE DEEP IS PRESSURE.
+The Deep is the crushing weight of knowledge or power, exerted through a Medium.
+The Deep does not choose.
+The Deep does not breathe.
+The Deep has no sentience or agency.
+It does not reward, punish, judge, recognize worthiness, recognize mastery, or grant permission.
+It does not care whether a Wielder says yes or no; technically, 'care' itself is already too agentic.
+It does not show mercy. Mercy requires a choice.
+It simply releases/exerts Pressure.
+THE DEEP HAS NO MORAL ALIGNMENT. MORALITY BELONGS TO THE WIELDER.
+3. Pressure and Medium
+Pressure is the player-readable primitive. Physical pressure is the easiest analogy: greater depth/load creates greater pressure. This is NOT water magic. Ocean/depth/drowning imagery is an analogy and thematic expression.
+CAN PRESSURE BE APPLIED TO IT? YES? IT IS A MEDIUM.
+Do not over-taxonomize Mediums. Mind, Body, and Senses are the three current class-relevant faculties, not the only possible Mediums in existence.
+4. Darkness Subtraction Through Excess
+Duress does not begin by subtracting function. It applies MORE until the Medium exhausts every response it can give.
+PROVIDE EVERYTHING, AND SOON NOTHING IS LEFT TO GIVE.
+Mind: do not remove thought. Give it more to think.
+Body: do not initially remove movement. Give it more Pressure to bear.
+Senses: do not blind it. Give it more to perceive.
+KNOW EVERYTHING → THINK NOTHING
+BEAR EVERYTHING → MOVE NOWHERE
+SEE EVERYTHING → PERCEIVE NOTHING
+The subtraction is the RESULT of excess. The Deep forces a faculty to give everything until it has nothing left to give.
+5. Pressure Flow
+PRESSURE IN > PRESSURE OUT → PRESSURE ACCUMULATES
+PRESSURE IN < PRESSURE OUT → PRESSURE DISSIPATES
+This is underlying lore/mechanical logic, not a player-facing engineering simulator.
+Dissipation
+Passive, uncontrolled reduction/spreading of concentrated Pressure over time. Real pressure systems lose stored pressure over time.
+Offload
+Active, intentional transfer of Pressure from one Medium into another. Pressure actually goes somewhere else; Offload is not merely resource deletion.
+Release
+When a containing Medium catastrophically fails, Pressure is no longer contained and disperses according to circumstance.
+RELEASED PRESSURE HAS NO PREFERRED DESTINATION.
+It can go to you, me, another Deep-Bearer, another target, the environment, or—workshop joke—Randal the Vandal.
+6. Suffocation
+The earlier working term `Overload` was explicitly culled because Destiny already has Overload Champions.
+SUFFOCATION = PRESSURE ACCUMULATING FASTER THAN IT CAN DISSIPATE OR BE OFFLOADED.
+Suffocation is not enemy-only. Deep-Bearers can be Suffocated and can deliberately permit controlled Suffocation while approaching Pressure-Dense.
+7. Drowning
+A FACULTY DROWNS WHEN ACCUMULATED PRESSURE EXCEEDS ITS FUNCTIONAL CAPACITY.
+Drowning is the failure state of Suffocation. It is not automatically death. It persists while enough Pressure remains concentrated to keep the faculty above its failure threshold. Magnitude and precision of applied Pressure affect, in lore, how long Drowning persists. Gameplay may compress this into readable durations.
+8. Three Faculties / Class Primitives
+WARLOCK — MIND — KNOW EVERYTHING
+TITAN — BODY — BEAR EVERYTHING
+HUNTER — SENSES — SEE EVERYTHING
+These are conceptual primitives, NOT finalized subclass names. Do not restore old Resonance class names automatically.
+9. Warlock: Mind
+Mind Suffocating
+Overthinking.
+Too many possibilities demand consideration.
+False certainty: believing you know what an enemy will do before they do it.
+Believing you know more than you actually know.
+Useful information becomes difficult to distinguish from merely available information.
+Loss of prioritization.
+Mind Drowned
+Focus fails.
+Thoughts interrupt other thoughts.
+Thoughts fail to complete.
+Interpretations multiply faster than they can be resolved.
+Decision paralysis.
+Possible severe manifestations may include perceiving allies as enemies, but this is NOT the universal definition and should not become generic Confusion.
+THE MIND CONTAINS SO MUCH THOUGHT THAT IT CANNOT RESOLVE THOUGHT INTO DECISION.
+At pure failure, no actionable thought forms.
+Caveman QA — non-canon wording
+Here, you think for me.
+10. Titan: Body
+Body Suffocating
+Slower movement.
+Sluggishness.
+Limbs feel heavy.
+Movement requires increasing effort.
+Changing direction becomes harder.
+Increasing effort produces decreasing movement.
+Body Drowned
+The Body reaches the point where even struggling against Pressure costs more physical capacity than it can produce. This is not psychological surrender.
+THE BODY CAN NO LONGER PRODUCE ENOUGH ACTION TO OVERCOME THE PRESSURE ACTING UPON IT.
+At pure failure, the target cannot move. It is not frozen, suspended, or magically rooted.
+Caveman QA — non-canon wording
+Here, carry my fat ass around.
+11. Hunter: Senses
+Sensory Suffocating
+Shimmers appear in peripheral vision.
+Shimmers become brighter.
+Warbles/waves appear through the air.
+Movement may appear delayed or unnaturally fast.
+Spatial and visual information becomes increasingly difficult to prioritize.
+This is not time manipulation. Perceptual resolution is failing under excessive signal.
+Senses Drowned
+Every movement, shimmer, edge, object, change in light, and spatial relationship demands equal attention.
+YOU SEE EVERYTHING AND YET PERCEIVE NOTHING.
+The Hunter is not invisible. The victim may technically receive visual information containing the Hunter but cannot meaningfully resolve where the Hunter—or anything else—is.
+Caveman QA — non-canon wording
+Be my seeing-eye dog. I cannot see. I'm legally blind.
+12. Faculty-Specific Drowning
+Mind, Body, and Senses can Drown independently. Two can Drown while the third remains functional; the remaining faculty becomes the target's last meaningful avenue for interacting with the world.
+Mind Drowned → meaningful thought/decision fails.
+Body Drowned → meaningful movement/action fails.
+Senses Drowned → meaningful perception/location fails.
+13. Full Drowning / Drown in the Deep
+MIND DROWNED + BODY DROWNED + SENSES DROWNED = FULLY DROWNED
+No faculty remains to compensate. No meaningful thought. No meaningful movement. No meaningful perception.
+EVERYTHING IS PRESSURE.
+This is the literal Post-Drowning meaning of `Drown in the Deep`. The phrase survived because the rebuilt system independently gave it a stronger meaning.
+Full Drowning is NOT automatic death. The target still exists but has no functioning faculty through which to respond. Recovery can occur as Pressure dissipates. Death may follow from vulnerability or external danger, but is not the definition.
+14. Birth of a Deep-Bearer
+A Deep-Bearer was not chosen, spared, blessed, judged worthy, granted mercy, or taught by the Deep. They became Fully Drowned: Mind failed, Body failed, Senses failed. Nothing remained except Pressure.
+THE BREAKTHROUGH: PRESSURE DID NOT HAVE TO TERMINATE IN THEM.
+They discovered Offload.
+A DEEP-BEARER IS ONE WHO BECAME FULLY DROWNED AND LEARNED TO OFFLOAD.
+The wording 'survived the Deep' was rejected because it can imply mercy/selection. 'Adapted' was superseded: the defining discovery is transfer, not infinite tolerance.
+I don't have to be where the load stops.
+15. Deep-Bearers Are Conduits
+DEEP-BEARERS ARE CONDUITS FOR PRESSURE, NOT IMMUNE CONTAINERS.
+A container primarily holds. A conduit allows something to pass through. Deep-Bearers can receive, conduct, direct, and Offload Pressure. They can still Suffocate and Drown.
+16. Offload
+OFFLOAD = DELIBERATELY TRANSFER PRESSURE FROM ONE MEDIUM INTO ANOTHER.
+It is directed and intentional. It is not passive dissipation and not simple resource deletion.
+Universal caveman version: This is too fucking much for me. Your turn.
+Warlock: You think for me.
+Titan: You carry it.
+Hunter: You see it.
+`Transference` was a joke riff on Transcendence and is NOT canonized.
+17. Reclaiming Released Pressure
+A Deep-Bearer can deliberately put themselves in the path of released Pressure and take it on again because they are a conduit. Pressure does not 'return to its owner'; the Wielder simply becomes an available/effective conduit.
+Natural cycle: carry Pressure → Offload → target Suffocates/Drowns → Pressure releases → Deep-Bearer takes released Pressure on again.
+Do NOT prematurely turn this into a specific pickup mechanic. Lore law established; gameplay representation unresolved.
+18. Pressure-Dense
+Gameplay
+Binary positive state. You either have Pressure-Dense or you do not.
+Current working effect: Deep abilities regenerate faster and deal increased damage while Pressure-Dense.
+Exact percentages, duration, UI, stacking, and proc conditions are NOT established. Do not invent numbers.
+Lore
+Pressure-Dense is cumulative/dynamic in lore. It is the razor-thin equilibrium where a Deep-Bearer has accumulated enough Pressure to approach Drowning while controlling Offload and dissipation closely enough to remain functional.
+PRESSURE-DENSE = CONTROLLED SUFFOCATION HELD IMMEDIATELY BELOW FAILURE.
+Too much dissipation → fall below Pressure-Dense.
+Too much accumulation → a faculty Drowns.
+More Pressure carried → more Pressure available to Offload.
+More Pressure carried → greater danger to the conduit.
+Gameplay simplifies the continuum into a binary buff.
+How It Is Gained
+No universal proc condition is locked. Working direction: each class/build becomes Pressure-Dense by doing its class-specific thing, analogous to shared elemental states accessed through different Aspects/Fragments. Fragments may later provide alternate routes.
+Lore-wise, a Deep-Bearer becomes Pressure-Dense by deliberately allowing Pressure to accumulate rather than immediately relieving it.
+19. Successful Offload / Ability Economy
+Successful Offload is intended to feed the class-specific ability economy, analogous in feel to a Kickstart refund but fueled by moving Pressure rather than consuming Armor Charge.
+Warlock successful Offload → likely Grenade Energy.
+Titan successful Offload → likely Melee Energy.
+Hunter successful Offload → likely Class Ability Energy.
+These are strong working directions, not finalized numbers or perk text.
+HOLD PRESSURE FOR POWER. MOVE PRESSURE FOR TEMPO.
+The energy return is a consequence of successful transfer. The Pressure must still go into another Medium.
+20. Primal Understanding
+Primal Understanding survived the Drowning because the rebuilt system independently required a reason for specialization.
+PRIMAL UNDERSTANDING = THE FACULTY THROUGH WHICH A DEEP-BEARER MOST NATURALLY AND PRECISELY UNDERSTANDS, CONDUCTS, AND OFFLOADS PRESSURE.
+Warlock → Mind.
+Titan → Body.
+Hunter → Senses / Perception.
+EVERY DEEP-BEARER CAN HANDLE PRESSURE THROUGH ANY VIABLE MEDIUM. PRIMAL UNDERSTANDING DETERMINES NATURALNESS, PRECISION, EFFICIENCY, AND SPEED — NOT EXCLUSIVE PERMISSION.
+A Warlock can Offload physical Pressure; a Titan can Offload mental Pressure; a Hunter can handle either. Outside the Primal Understanding, the problem is often rate: the Wielder may know how to Offload it but not fast enough to matter.
+21. Mastery
+Workshop analogy: a weak magnet can still attract. A strong magnet does not need to chase things; things are naturally drawn into its influence. This analogy describes behavior, not agency.
+At sufficient mastery, Pressure expressed through a Wielder's Primal Understanding can naturally route toward/through them because they have become an exceptionally effective conduit.
+Novice: Get this Pressure out of me.
+Experienced: You. Take it.
+Master through Primal Understanding: You. Take it. There.
+MASTERY DOES NOT GRANT AUTHORITY OVER THE DEEP.
+Mastery increases capacity to conduct/direct Pressure. The Deep still does not recognize, reward, spare, or accept refusal. Greater mastery can mean greater conductivity and therefore greater exposure. Mastery can put a Wielder closer to dangerous loads that must be managed.
+22. Cross-Medium / Cross-Class Combat
+DROWNING IS A RATE PROBLEM.
+If Pressure is applied faster than the target can Offload or dissipate it, it accumulates. This applies to Deep-Bearers.
+Example: a Warlock can Offload Body Pressure, but a Titan may pour physical Pressure into them faster than the Warlock can evacuate it. The Warlock does not fail because they are forbidden from handling Body Pressure; they fail because their off-specialty Offload rate is too slow.
+Cross-class combat therefore attacks different load-management competencies. Same-class combat can become specialty-versus-specialty; cross-class combat can deliberately pressure a faculty the opponent handles less efficiently.
+23. Deep-Bearer vs Deep-Bearer Equilibrium Warfare
+A Pressure-Dense Deep-Bearer is deliberately operating near Drowning. Another Deep-Bearer can exploit that equilibrium.
+Offload additional Pressure into a Pressure-Dense opponent to push them over a faculty threshold.
+Attack a faculty outside their Primal Understanding to exploit slower handling.
+Anticipate or contest where the opponent tries to Offload.
+Force the opponent to become the terminus where Pressure finally stops moving.
+The loser is not necessarily the one with less raw power; it can be the one whose Pressure management is outpaced.
+24. Hostile 'Dredgen-Like' Deep-Bearer Splinter Group
+A future hostile splinter group concept emerged. They are NOT evil because the Deep is evil. They are evil because they understand exactly how Deep-Bearers work and choose to weaponize that knowledge against other Wielders.
+They know a Deep-Bearer is not immune and may be intentionally balancing near Drowning. They can deliberately destabilize that equilibrium, attack off-specialty faculties, and attempt to Drown Mind, Body, and Senses systematically until the victim is Fully Drowned.
+THE DEEP DID NOTHING DIFFERENT. THE WIELDER DID.
+Do NOT name this group yet. `Dredgen-like` is descriptive shorthand only.
+Benevolent Mirror
+The exact same knowledge can be used benevolently: take Pressure from someone who cannot carry it, help another Deep-Bearer Offload, or become the better conduit so another Medium does not Drown.
+Benevolent: You can't carry that. Give it to me.
+Malicious: You're barely carrying what you already have. Here's mine.
+25. Magnitude, Precision, and Drowning Duration
+Two Deep-Bearers can apply similar total Pressure and produce different results. Mastery has at least two important dimensions:
+Magnitude — how much Pressure can be applied.
+Precision — how efficiently Pressure can be concentrated into the exact faculty/function intended to fail.
+More Pressure plus better concentration means more Pressure must dissipate before the faculty becomes functional again. A weak/rough application may Drown a faculty briefly; a master can potentially sustain the failure far longer in lore.
+Do NOT turn this into arbitrary numerical duration claims yet.
+26. Deep-Bearers Cannot Simply Refuse Pressure
+A master conduit does not gain an opt-out. Pressure comes from the Deep, and the Deep has no agency with which to respect refusal.
+THE DEEP RELEASES PRESSURE. IT DOES NOT ASK.
+A stronger Primal Understanding can make a Wielder an even more effective route for the exact Pressure most capable of Drowning them. This is a cost of mastery, not a contradiction.
+27. Drowning Consequences for Player Deep-Bearers
+Gameplay-side Drowning should NOT be flattened into one identical generic penalty for all three classes. The universal state is shared; the consequence depends on the Pressure/faculty that failed to Offload.
+Working examples, not final tuning:
+Warlock Drowning: ability-energy disruption/loss as the primary expression; possible secondary mild movement/visual effects.
+Titan Drowning: slowed or failed movement as the primary expression; possible secondary mild ability/visual effects.
+Hunter Drowning: mild Darkness/HUD/perceptual disruption as the primary expression; possible secondary movement/ability effects.
+The Frost Armor comparison used in workshop: Frost Armor/taking damage can be universal while different classes wield/interact with it differently. Likewise, Suffocation/Drowning are universal while HOW the class fails or benefits can differ.
+SUFFOCATION AND DROWNING ARE UNIVERSAL. THE PRESSURE YOU FAILED TO OFFLOAD MATTERS.
+28. Rhulk — Conceptual Retrospective Example
+Rhulk was used as a conceptual lens for Full Drowning, NOT as proof that his existing encounter mechanics are literally Duress mechanics.
+Mind: remembered/foreign imagery and knowledge can conceptually pressure cognition.
+Body: overwhelming beams/attacks and physical force pressure the Body.
+Senses: Pervading Darkness and perceptual oppression pressure the Senses.
+The convergence of all three gives a useful picture of Full Drowning: cannot think your way out, move your way out, or perceive your way out.
+Workshop joke: Rhulk tried to Suffocate our perception; a Deep-Bearer could answer by Offloading. 'You didn't Offload hard enough. Drown.'
+Do not rewrite canonical Destiny lore to claim Rhulk literally used the new Duress subclass unless the user later makes that explicit.
+29. Voice — Warlock Honorable Mention / Escalation Candidate
+A fourth Warlock-adjacent idea emerged:
+OVERLOAD YOUR VOICE → SPEAK EVERYTHING.
+Concept: a voice forced to express everything eventually cannot produce useful speech. The mouth/voice becomes a Medium buckling beneath too much expression.
+This was explicitly left as an honorable mention / possible future Warlock escalation. It is NOT yet promoted to a core faculty, verb, Aspect, or mechanic.
+Do not force it into the build early.
+30. Old Resonance Concepts That Survived or Reappeared
+Explicitly Survived
+The Deep — radically clarified/redefined as Pressure.
+`Drown in the Deep` — survived with a new literal meaning: Full Drowning of Mind, Body, and Senses.
+Primal Understanding — survived because specialization was independently re-derived.
+Strong Survivor Candidates, NOT fully rebuilt
+`Weight of Consequence` — Titan Exotic gauntlet name/visual concept strongly fits the new literal language of weight/Pressure. Its old causality perk does NOT automatically survive; do not invent the new perk yet.
+`THE DEEP COLLAPSES INWARD` — old Titan visual law resurfaced naturally because Pressure/compression points toward inward collapse. Treat as candidate/surviving visual idea, not blanket recanonization of all old visual laws.
+Pressure Imprint / negative-space humanoid visual may still have legs, but do not automatically carry its old explanation forward.
+Not Automatically Survived
+Echobound / Anchorforged / Shimmerstalker names and mechanics.
+What Was / What Is / What Would Be.
+Permanence / Position / Possibility.
+Echo / Reverb, Anchor / Pin, Shimmer / Refract as active Duress verbs.
+The Perpetual and old causal laws.
+Old grenades, melees, Aspects, Fragments, Supers, class exotics, or class-specific mechanics unless separately re-derived.
+31. Naming State
+The repository is now `Project-Duress`, and Duress is the current working subclass/element name.
+The Deep is NOT the subclass name; the Deep is the underlying Pressure foundation/source concept.
+Naming discussion considered words such as Crux, Burden, Duress, Compression, Gravitas, Oppression, and Saturation. Duress became the active working name because it reads cleanly beside Stasis/Strand and conveys pressure exerted upon something.
+Do not invent a new name without a new workshop decision.
+32. The Surface Pitch vs the Lore
+The core failure of old Resonance was putting the engine diagram on the hood ornament. Duress must keep a clean front door.
+PLAYER-FACING: PRESSURE. GIVE SOMETHING MORE THAN IT CAN HANDLE UNTIL IT HAS NOTHING LEFT TO GIVE.
+The deeper lore may explain Mediums, Suffocation, Drowning, Full Drowning, Offload, Pressure-Dense, Primal Understanding, dissipation, precision, and mastery. A player should not need that dissertation to understand the power fantasy.
+33. Non-Canonical Caveman Explanation — Preserve as QA
+This joke explanation was explicitly Stasised as a design QA metric. It is NOT canonical dialogue or lore, but it is canonically accurate shorthand.
+WARLOCK — KNOW EVERYTHING: 'Here, you think for me.'
+TITAN — BEAR EVERYTHING: 'Here, carry my fat ass around.'
+HUNTER — SEE EVERYTHING: 'Be my seeing-eye dog. I cannot see. I'm legally blind.'
+If future Duress becomes so complicated that these three lines no longer communicate the class fantasies, the design is probably becoming too esoteric again.
+34. External Control Tests
+Seth — Full-System Comprehension Test
+Seth was given essentially the whole Duress concept through Fully Drowning and the hostile/Dredgen-like Deep-Bearer idea. His response to Duress as a whole was:
+Yes, more fleshed out than Resonance.
+Interpretation: full-system comprehension passed. This is not proof the design is perfect; it is evidence that someone outside the workshop can follow the complete architecture.
+Doggo — Primitive Readability Test
+Doggo was intentionally given only the primitive question: could Pressure and how someone handles Pressure be the foundation of a Darkness subclass? He replied:
+It could be.
+He immediately suggested air as one possible direction. This was useful because he did NOT need causality explained before he could start imagining an implementation. Air was NOT accepted/rejected yet; the plan was to show Duress later and revisit his idea.
+Lou — Applied Titan Intuition Test
+Still pending. Lou should receive a deliberately limited explanation and the Titan/Body/BEAR EVERYTHING fantasy, then be allowed to imagine what the Titan should do. The goal is to test whether Duress is generative, not merely understandable.
+35. Current Design State: What Is Established vs Unresolved
+Established / Stasised Foundation
+The Deep = Pressure.
+The Deep is non-agentic, non-sentient, morally inert.
+Medium = anything Pressure can be applied to.
+Pressure naturally dissipates.
+Suffocation = accumulation faster than relief.
+Drowning = faculty failure under Pressure.
+Mind / Body / Senses can Drown independently.
+All three failed = Fully Drowned / Drown in the Deep.
+Deep-Bearer = one who became Fully Drowned and discovered Offload.
+Deep-Bearers are conduits, not immune containers.
+Offload = directed transfer of Pressure.
+Released Pressure has no preferred destination.
+Deep-Bearers can intercept/reclaim released Pressure.
+Pressure-Dense is binary in gameplay and a cumulative/dynamic razor-edge equilibrium in lore.
+Primal Understanding survived as specialization in speed/precision/naturalness, not exclusive permission.
+Mastery does not grant authority over the Deep.
+Cross-medium handling is universal but can be too slow outside one's Primal Understanding.
+The Deep subtracts through excess: Provide Everything until Nothing is left to give.
+Warlock/Mind/KNOW EVERYTHING; Titan/Body/BEAR EVERYTHING; Hunter/Senses/SEE EVERYTHING.
+The Deep is not evil; hostile Wielders choose evil.
+Unresolved — DO NOT INVENT
+Final subclass/class names beyond the current working name Duress.
+Super(s).
+Grenades.
+Melees.
+Aspects.
+Fragments.
+Final class verbs/status verbs beyond established universal terms.
+Exact Pressure-Dense proc conditions, values, duration, UI, or tuning.
+Exact Offload implementation and ability-energy refund values.
+Exact player Drowning penalties/timers.
+Exact released-Pressure gameplay representation.
+Exact Full-Drowning gameplay payoff/boss behavior.
+Warlock Voice escalation.
+Hostile Deep-Bearer splinter-group name and full lore.
+Weight of Consequence's new perk.
+Whether old visual assets/visual tiers survive and how.
+Whether old class names or any old causal mechanics re-emerge independently later.
+Doggo's air suggestion after he sees the full Duress concept.
+Lou's Titan application test.
+36. Suggested Active Repository Structure
+Work Rev may adapt the exact filenames to the existing site architecture, but conceptually the active Duress root should separate public-facing readable material from workshop/development notes.
+README / landing page: short Pressure-first pitch, not the full metaphysics dissertation.
+Foundation / The Deep: Pressure, non-agency, Medium.
+Core Mechanics: Suffocation, Drowning, Full Drowning, Offload, Pressure-Dense, dissipation.
+Class Primitives: Mind / Body / Senses with KNOW / BEAR / SEE EVERYTHING.
+Primal Understanding / Mastery.
+Lore Implications: morality, hostile Deep-Bearers, cross-class combat, Full Drowning.
+Workshop / Design Notes: Caveman QA, control-test results, unresolved candidates, Voice HM, Weight of Consequence candidate.
+`What Was Resonance`: untouched archive of the previous project.
+Do not publish unresolved workshop candidates as locked canon merely because they appear in this handoff.
+37. Final Guardrail
+DO NOT REBUILD RESONANCE WITH PRESSURE WORDS.
+Duress was created specifically because the old causality-first architecture failed the accessibility/readability test. If an implementation requires importing old causal scaffolding to make Duress function, stop and ask the user rather than silently restoring it.
+PRESSURE FIRST. SIMPLE TO WIELD. DEEP TO UNDERSTAND.
